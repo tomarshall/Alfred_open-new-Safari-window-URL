@@ -1,4 +1,4 @@
-# Alfred_open-gmail-in-new-safari-window
+# Alfred_open-new-safari-window-URL
 ### Alfred workflow that opens your chosen URL in a new Safari window.
 
 This workflow is set to open GMail by default, but can be easily configured to open any webpage by changing the URL in the Apple Script (no programming knowledge required).
